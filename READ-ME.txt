@@ -1,11 +1,11 @@
   =>  Template Name    : CONSULT - Consultancy Website Template
 
-  =>  Template Link    : https://htmlcodex.com/consultancy-website-template-free
+  =>  Template Link    : https://github.com/YeshwanthSaiM/consultancy-website-template-free
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://github.com/YeshwanthSaiM/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Yesh
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://github.com/YeshwanthSaiM
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Yesh : Yesh is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://github.com/YeshwanthSaiM/about-us )
